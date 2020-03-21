@@ -14,6 +14,7 @@
     "native-base": "^2.13.12",
     "react": "16.9.0",
     "react-native": "0.61.5",
+    "react-native-animate-loading-button": "^1.0.3",
     "react-native-material-buttons": "^0.6.0",
     "react-native-raw-bottom-sheet": "^2.1.0",
     "react-native-swiper": "^1.5.14",
